@@ -19,8 +19,6 @@ I'm Enzo Ciolin, a Computer Science student passionate about software developmen
 
 ## 📊 GitHub Stats
 
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoCiolin&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCiolin&layout=compact&theme=tokyonight)
 
 ---
